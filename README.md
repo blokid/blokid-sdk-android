@@ -24,7 +24,7 @@ Add the BlokID dependency to your module's `build.gradle` file:
 
 ```gradle
 dependencies {
-    implementation 'com.github.Mprogrammer2020:BlokID-Android-Netset:1.0.0'
+    implementation 'https://github.com/blokid/blokid-sdk-android:1.0.0'
 }
 ```
 
